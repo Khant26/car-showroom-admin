@@ -2,6 +2,10 @@
 
 An administration interface for managing showroom inventory and operational content, including cars, rentals, sold vehicles, brands, and promotional banners.
 
+## Product repository
+
+This application is also maintained as the [`admin`](https://github.com/Khant26/car-showroom/tree/admin) branch of the combined [Car Showroom repository](https://github.com/Khant26/car-showroom). The original repository is preserved.
+
 ## Features
 
 - Protected administrator login and authenticated routes
